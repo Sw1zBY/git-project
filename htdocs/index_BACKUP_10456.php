@@ -3,6 +3,8 @@
 
 	echo "hello git!";
 	echo "hello git2!";
+<<<<<<< HEAD
 	echo "hello new branch";
+=======
 	echo "branch master";
-	echo "branch magwiejgiowjeioster";
+>>>>>>> master
